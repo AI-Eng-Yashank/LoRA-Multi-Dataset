@@ -1,0 +1,11 @@
+torch
+transformers
+datasets
+peft
+accelerate
+evaluate
+sacrebleu
+nltk
+rouge-score
+tensorboard
+tensorboardX
